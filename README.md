@@ -1,10 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mohammad Azkar 👋  
 
-# Hi 👋, I'm Mohammad Azkar
+Java Backend Developer | Spring Boot | REST APIs | JWT Authentication | MySQL | MongoDB
 
-- 👨‍💻 All of my projects are available at **[https://www.crio.do/learn/portfolio/azkar7307/](https://www.crio.do/learn/portfolio/azkar7307/)**
+I am a backend-focused developer building scalable and well-structured applications using **Java and Spring Boot**.
 
-- 📄 Know about my experiences **[https://www.crio.do/learn/portfolio/azkar7307/](https://www.crio.do/learn/portfolio/azkar7307/)**
+I work on designing clean REST APIs, implementing secure authentication & authorization, and applying **low-level design and clean architecture principles** to real-world backend systems.
+
+📚 Currently strengthening my skills in **problem solving, LLD, backend scalability, and microservices fundamentals** through hands-on projects.
+
+---
+
+## 🔗 Links & Profiles
+- 👨‍💻 Full project portfolio (13 projects): **[https://www.crio.do/learn/portfolio/azkar7307/](https://www.crio.do/learn/portfolio/azkar7307/)**
+- 📄 Resume (Java Backend): **(add resume link)**
+- LinkedIn: (add link)
+- LeetCode: (add link)
+- 📧 Email: azkar7307@gmail.com
+---
 
 ## 🛠️ Skills & Tools
 
@@ -20,11 +32,11 @@
 |---------|----------|
 | ![HTTP](https://img.shields.io/badge/HTTP-Protocol-blue) | ![REST](https://img.shields.io/badge/REST-Architecture-green) |
 
-### Frameworks & Data Access
+### Frameworks & Libraries
 
-| **Spring Data** | **Jackson** | **Lombok** |
-|----------------|-------------|------------|
-| ![Spring Data](https://img.shields.io/badge/Spring%20Data-Data%20Access-brightgreen?logo=spring) | ![Jackson**](https://img.shields.io/badge/Jackson-JSON-blue?logo=java) | ![Lombok](https://img.shields.io/badge/Lombok-Code%20Reduction-red?logo=java) |
+| **Spring Data JPA** | **Spring Security** | **Jackson** | **Lombok** |
+|----------------|-------------|------------| ------------ |
+| ![Spring Data](https://img.shields.io/badge/Spring%20Data-Data%20Access-brightgreen?logo=spring) | ![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT-brightgreen?logo=spring) | ![Jackson**](https://img.shields.io/badge/Jackson-JSON-blue?logo=java) | ![Lombok](https://img.shields.io/badge/Lombok-Code%20Reduction-red?logo=java) |
 
 ### Testing
 
@@ -38,18 +50,16 @@
 |---------------------|
 | ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-OOP-orange) |
 
-### Developer Tools & Environment
 
-| **Git** | **Linux** | **Postman** |
-|--------|-----------| ---------- |
-| ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Postman](https://skillicons.dev/icons?i=postman) |
+### Developer Tools
 
-### Build & CI/CD
+| **Git** | **Linux** | **Postman** | **Docker** | **Gradle** |
+|-----|-------|---------|--------|---------|
+| ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Postman](https://skillicons.dev/icons?i=postman) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Gradle](https://img.shields.io/badge/Gradle-Build%20Tool-02303A?logo=gradle&logoColor=white) |
 
-| **Gradle** | **Docker** |
-|-----------|------------|
-| ![Gradle](https://img.shields.io/badge/Gradle-Build%20Tool-02303A?logo=gradle&logoColor=white) | ![Docker](https://skillicons.dev/icons?i=docker) |
+---
 
+💼 Open to **Java Backend / Spring Boot** opportunities.
 
 <!--
 **azkar7307/azkar7307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
