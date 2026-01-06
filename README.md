@@ -1,9 +1,10 @@
 # Hi, I'm Mohammad Azkar 👋  
 
 Java Backend Developer | Spring Boot | REST APIs | JWT Authentication | MySQL | MongoDB
-- ------------------------------------------------------------------
-🔭 I am a backend-focused developer building scalable and well-structured applications using **Java and Spring Boot**.
 
+---
+
+🔭 I am a backend-focused developer building scalable and well-structured applications using **Java and Spring Boot**.
 I work on designing clean REST APIs, implementing secure authentication & authorization, and applying **low-level design and clean architecture principles** to real-world backend systems.
 
 📚 Currently strengthening my skills in **problem solving, LLD, backend scalability, and microservices fundamentals** through hands-on projects.
@@ -12,8 +13,8 @@ I work on designing clean REST APIs, implementing secure authentication & author
 
 ## 🔗 Links & Profiles
 - 👨‍💻 Full project portfolio (13 projects): **[https://www.crio.do/learn/portfolio/azkar7307/](https://www.crio.do/learn/portfolio/azkar7307/)**
-- 📄 Resume (Java Backend): **(add resume link)**
-- LinkedIn: (add link)
+- 📄 Resume (Java Backend): **[Link](https://github.com/azkar7307/azkar7307/blob/main/Azkar_Resume.pdf)**
+- LinkedIn: www.linkedin.com/in/mohammad-azkar-dev
 - 📧 Email: azkar7307@gmail.com
 
 ## 🛠️ Skills & Tools
